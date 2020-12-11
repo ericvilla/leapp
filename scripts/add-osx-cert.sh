@@ -9,8 +9,7 @@ echo $CERTIFICATE_OSX_P12 | base64 --decode > $CERTIFICATE_P12
 echo "security create-keychain"
 security create-keychain -p jenkins $KEY_CHAIN
 echo "security list-keychains"
-# security list-keychains -s login.keychain build.keychain
-security list-keychains -s build.keychain
+security list-keychains -s login.keychain build.keychain
 echo "security default-keychain"
 security default-keychain -s $KEY_CHAIN
 echo "security unlock-keychain"
