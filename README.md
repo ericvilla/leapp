@@ -6,7 +6,6 @@ Leapp
 - Roadmap: [Roadmap](https://github.com/Noovolari/leapp/projects/1)
 - Tutorials: [Tutorials](#tutorials)
 - Chat with us: [Discord](https://discord.gg/wHh2kyK)
-- Change
 
 ![logo](.github/images/README-1.png)
 
