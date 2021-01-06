@@ -7,6 +7,7 @@ Leapp
 - Tutorials: [Tutorials](#tutorials)
 - Chat with us: [Discord](https://discord.gg/wHh2kyK)
 
+
 ![logo](.github/images/README-1.png)
 
 Leapp is your everyday companion to access your cloud; designed to work with Cloud Providers APIs, CLIs, and SDKs.
